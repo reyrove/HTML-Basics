@@ -193,4 +193,3 @@ Found a bug? Have a better food metaphor? Open an issue or reach out:
 - 💼 LinkedIn: [Reyrove](https://www.linkedin.com/feed/update/urn:li:ugcPost:7357186806821326848/)
 
 Happy cooking — I mean, coding! 🧑‍🍳💻
-```
